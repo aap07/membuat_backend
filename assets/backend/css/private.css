@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "SquadOne";
+    src: url("../font/squadaone-regular-webfont.woff") format("woff");
+}
+
+/* Style Backend */
+
+/* Auth */
+
+.text-auth {
+    font-family: "SquadOne", "Arial Narrow", arial, sans-serif;
+    font-size: 40px;
+}
