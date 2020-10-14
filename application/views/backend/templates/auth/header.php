@@ -17,7 +17,7 @@
     <!-- Theme style -->
     <link rel="stylesheet" href="<?= base_url('assets/backend/AdminLTE/') ?>dist/css/adminlte.min.css">
     <!-- Private Style -->
-    <link rel="stylesheet" href="<?= base_url('assets/backend/css/') ?>private.css">
+    <link rel="stylesheet" href="<?= base_url('assets/backend/css/') ?>demo-toko.css">
     <!-- Google Font: Source Sans Pro -->
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
 </head>

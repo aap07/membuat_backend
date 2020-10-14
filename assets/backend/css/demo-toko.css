@@ -7,7 +7,11 @@
 
 /* Auth */
 
-.text-auth {
+.text-auth, .text-title {
     font-family: "SquadOne", "Arial Narrow", arial, sans-serif;
     font-size: 40px;
+}
+
+.text-title {
+    font-size: 30px;
 }
